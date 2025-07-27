@@ -20,3 +20,4 @@ function clearDisplay() {
       display.value = 'Error';
     }
   }
+
